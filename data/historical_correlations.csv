@@ -1,0 +1,6 @@
+Metrik_1,Metrik_2,Korrelationskoeffizient,Interpretation
+ODL_Volumen,XRP_Preis,0.890,Sehr starke positive Korrelation
+Partner_Anzahl,XRP_Preis,0.764,Starke positive Korrelation
+ODL_Adoptionsrate,XRP_Preis,0.686,Moderate positive Korrelation
+ODL_Volumen,Marktkapitalisierung,0.912,Sehr starke positive Korrelation
+ODL_Volumen,Partner_Anzahl,0.823,Starke positive Korrelation
